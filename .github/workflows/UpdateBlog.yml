@@ -1,0 +1,27 @@
+name: Update Blog
+ 
+on:
+  repository_dispatch:
+    types: [blog_update]
+ 
+jobs:
+   build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
+        with:
+          feed_url: https://www.markasaad.dev/api/rss
+          count: 10
+      - name: Commit file changes
+        run: |
+            git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
+            git config user.name "$GITHUB_ACTOR"
+            git add .
+            git diff --quiet --cached || git commit -m "Update README" 
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
