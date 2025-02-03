@@ -15,7 +15,7 @@ I'm Mark.<br><br>I'm an ambitious indie game developer and computer hobbyist —
 - [Reverse Engineering a Keyboard for OpenRGB](https://www.markasaad.dev/blog/reverse-engineering-keyboard)
 <!-- BLOGPOSTS:END -->
 
-## 💰 Support me:
+## ❤️ Support me:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Hexapoly) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/markasaad) 
 
