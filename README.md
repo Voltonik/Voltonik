@@ -1,5 +1,5 @@
 # Hi! 👋
-I'm Mark.<br><br>I'm an ambitious indie game developer and computer hobbyist — I make games, electronics, and a lot more you can read about on my Blog.<br><br>I worked on various genres of games including Competitive Multiplayer FPS, Racing, Multiplayer Board games, Multiplayer Duels. <br>I specialize in developing performant & reliable netcode and networking solutions for multiplayer games, but I can do pretty much anything Unity-related.
+I'm an ambitious indie game developer and computer hobbyist — I make games, electronics, and a lot more you can read about on my Blog.<br><br>I worked on various genres of games including Competitive Multiplayer FPS, Racing, Multiplayer Board games, Multiplayer Duels. <br>I specialize in developing performant & reliable netcode and networking solutions for multiplayer games, but I can do pretty much anything Unity-related.
 
 ### Check out my website! https://markasaad.is-a.dev
 
