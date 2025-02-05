@@ -14,11 +14,6 @@ I'm an ambitious indie game developer and computer hobbyist — I make games, el
 - [Making a Full-body FPS Controller](https://www.markasaad.dev/blog/fullbody-fps)
 - [Reverse Engineering a Keyboard for OpenRGB](https://www.markasaad.dev/blog/reverse-engineering-keyboard)
 <!-- BLOGPOSTS:END -->
-
-## ❤️ Support me:
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Hexapoly) 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/markasaad) 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=voltonik&icon=5&color=10)](https://visitcount.itsvg.in)
 
